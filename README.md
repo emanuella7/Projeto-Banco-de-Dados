@@ -8,12 +8,11 @@ O objetivo deste trabalho é consolidar o aprendiazado ao integrar todas as etap
 # Questão1 Com base no probelma descrito, elabore o Diagrama Entidade-Relacionamento (DER) correspondente, atendendo aos seguintes requisitos: 
 1. Identifique as entidades, relacionamnetos e as cardinalidades de cada relação.
 2.  Inclua as chaves primárias (PK) de cada entidade.
-    - sub
-- Acrescente atributos para enriquecer o modelo, totalizando, no mínimo, 10 atributos distribuídos entre as entidades e relacionamnrtos. 
-- Certifique-se de que o modelo aborde adequadamente todos os aspectos do problema apresentado.
+3. Acrescente atributos para enriquecer o modelo, totalizando, no mínimo, 10 atributos distribuídos entre as entidades e relacionamnrtos. 
+4. Certifique-se de que o modelo aborde adequadamente todos os aspectos do problema apresentado.
 
 # Questão2 Para o DER desenhado na questão 01, desenvolva:
-- Descrição do Modelo Relacional: Converta o modelo conceitual para o modelo relacional, especificando as tabelas, os relacionamentos entre elas e identificando as chaves primárias (PK) e estrangeiras (FK) em cada tabela.
-- Diagrama do Modelo Relacional: Desenhe o diagrama relacional, evidenciando as tabelas, atributos, chaves primárias (PK) e chaves estrangeiras (FK), além dos relacionamentos entre elas.
-- Dicionário de dados: Crie um dicionário de dados para todas as tabelas do modelo relacional. Cada coluna de cada tabela deve conter as seguintes informações:
-- 
+1. Descrição do Modelo Relacional: Converta o modelo conceitual para o modelo relacional, especificando as tabelas, os relacionamentos entre elas e identificando as chaves primárias (PK) e estrangeiras (FK) em cada tabela.
+2. Diagrama do Modelo Relacional: Desenhe o diagrama relacional, evidenciando as tabelas, atributos, chaves primárias (PK) e chaves estrangeiras (FK), além dos relacionamentos entre elas.
+3.Dicionário de dados: Crie um dicionário de dados para todas as tabelas do modelo relacional. Cada coluna de cada tabela deve conter as seguintes informações:
+  -Nome: Nome da coluna.
