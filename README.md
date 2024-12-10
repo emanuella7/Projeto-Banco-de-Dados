@@ -9,7 +9,7 @@ O objetivo deste trabalho é consolidar o aprendiazado ao integrar todas as etap
 - a Identifique as entidades, relacionamnetos e as cardinalidades de cada relação.
 - b Inclua as chaves primárias (PK) de cada entidade. 
 - c Acrescente atributos para enriquecer o modelo, totalizando, no mínimo, 10 atributos distribuídos entre as entidades e relacionamnrtos. 
-- d Certifique-se de que o modelo aborde adequadamente todos os aspectos do problema apresentado.
+-  d Certifique-se de que o modelo aborde adequadamente todos os aspectos do problema apresentado.
 
 # Questão2 Para o DER desenhado na questão 01, desenvolva:
--a Descrição do Modelo Relacional: C
+- a Descrição do Modelo Relacional: C
