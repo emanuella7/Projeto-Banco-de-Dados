@@ -17,4 +17,11 @@ O objetivo deste trabalho é consolidar o aprendiazado ao integrar todas as etap
 3. Dicionário de dados: Crie um dicionário de dados para todas as tabelas do modelo relacional. Cada coluna de cada tabela deve conter as seguintes informações:
     - Nome: Nome da coluna.
    - Descrição: Breve explicação da finalidade do atributo.
-    - Tipo: 
+    - Tipo: Tipo de dado (exemplo: VARCHAR, INT, DATE).
+    - Tamanho: Tamanho do dado (se aplicável)
+    - Nulo: Se a coluna pode aceitar valores nulos (sim ou não)
+    - Regra: Restrições aplicadas ao atributo (exemplo:valores mínimos, máximos ou padrão do formtato).
+    - Chave: Se é uma chave primária (PK) ou chave estrangeira (fK).
+    - Default: Valor padrão da coluna, caso aplicável.
+    - Unique: Se o valor da coluna deve ser único (sim ou não).
+4. Aplique as 3 formas Normais para verificarse o modelo está normalizado: Verifique se o modelo relacional atende ás 3 formas normais (1FN, 2FN e 3FN). Caso o modelo não esteja normalizado, apliaque as técnicas necessárias para adequá-lo. Documente, passo a passo, as alterações realizadas em cada tabela para alcançar a normalização.
