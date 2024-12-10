@@ -15,4 +15,4 @@ O objetivo deste trabalho é consolidar o aprendiazado ao integrar todas as etap
 1. Descrição do Modelo Relacional: Converta o modelo conceitual para o modelo relacional, especificando as tabelas, os relacionamentos entre elas e identificando as chaves primárias (PK) e estrangeiras (FK) em cada tabela.
 2. Diagrama do Modelo Relacional: Desenhe o diagrama relacional, evidenciando as tabelas, atributos, chaves primárias (PK) e chaves estrangeiras (FK), além dos relacionamentos entre elas.
 3. Dicionário de dados: Crie um dicionário de dados para todas as tabelas do modelo relacional. Cada coluna de cada tabela deve conter as seguintes informações:
-  sub
+   -sub
